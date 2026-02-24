@@ -1,0 +1,2 @@
+To train this model i have used Seraphim Drone Detection dataset
+https://huggingface.co/datasets/lgrzybowski/seraphim-drone-detection-dataset
