@@ -1,0 +1,2 @@
+This ai model was trained on Seraphim Drone Detection dataset with over 83k images
+https://huggingface.co/datasets/lgrzybowski/seraphim-drone-detection-dataset
